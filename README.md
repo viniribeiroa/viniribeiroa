@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm VINÍCIUS RIBEIRO</h1>
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 <h3 align="center">A passionate backend developer from BRAZIL</h3>
 
 <h3 align="left">Connect with me:</h3>
