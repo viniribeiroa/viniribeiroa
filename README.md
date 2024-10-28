@@ -1,7 +1,7 @@
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-<h3 align="center">A passionate backend developer from BRAZIL <img src="https://github.com/danmadeira/bandeira-nacional/blob/master/img/Bandeira_do_Brasil.svg" alt="brazil" width="40" height="40"/> </a> <a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank" rel="noreferrer"></h3>
+<h3 align="center">A passionate backend developer from BRAZIL <img src="https://github.com/danmadeira/bandeira-nacional/blob/master/img/Bandeira_do_Brasil.svg" alt="brazil" width="40" height="30"/> </a> <a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank" rel="noreferrer"></h3>
 
 
 <p align="left">
