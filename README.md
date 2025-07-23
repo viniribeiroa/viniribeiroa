@@ -35,14 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniribeiroa&show_icons=true&locale=en&layout=compact" alt="viniribeiroa" />
-</p>
-
----
-
 ### ☕ Apoie meu trabalho
 
 <p>
